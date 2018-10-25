@@ -265,53 +265,32 @@ blah blah blah blah blah blah blah blah blah blah blah blah
 </p>
 
 </main>
-
 <div id="topics-list">
-  <h2>Accessibility Topics</h2>
-  <ul>
-  <li>Types of disabilities
-  <ul>
-  <li>Blindness</li>
-  <li>Deafblindness</li>
-  <li>Colorblindness</li>
-  <li>Low vision</li>
-  <li>Deafness</li>
-  <li>Dexterity/Motor</li>
-  <li>Cognitive</li>
-  <li>Seizure</li>
-  </ul>
-  </li>
-  <li>Assistive technologies
-  <ul>
-  <li>Screen readers</li>
-  <li>Screen magnifiers</li>
-  <li>Alternative pointing devices</li>
-  </ul>
-  </li>
-  <li>Laws and regulations
-  <ul>
-  <li>Americans with Disabilities Act (ADA)</li>
-  <li>Section 508</li>
-  <li>Air Carrier Access Act (ACAA)</li>
-  <li>(CVAA)</li>
-  </ul>
-  </li>
-  <li>Guidelines
-  <ul>
-  <li>Web Content Accessibility Guidelines (WCAG)</li>
-  </ul>
-  </li>
-  <li>Certification
-  <ul>
-  <li>IAAP Certified Associate in Accessibility</li>
-  <li>IAAP Certified Professional in Web Accessibility</li>
-  </ul>
-  </li>
-  </ul>
-  </div>
+    <h2>IT Knowledge Base</h2>
+  	<ul>
+
+	<li>Operating Systems
+  		<ul>
+  		<li>Unit 1</li>
+  		<li>Unit 2</li>
+  		<li>Unit 3</li>
+  		</ul>
+  	</li>
+
+  	<li>Web Programming
+  		<ul>
+  		<li>Unit 1</li>
+  		<li>Unit 2</li>
+  		<li>Unit 3</li>
+ 	 	</ul>
+  	</li>
+  	
+  	</ul>
+</div>
 
 <footer>
-  <p>Copyright 2015 Deque Systems. All rights reserved. <a href="#">Terms of use</a>. </p>
+  <p>Copyright 2018 Labianca-Campbell.com. All rights reserved. <a href="#">Terms of use</a>. </p>
+</footer>
 
 </div>
 </body>

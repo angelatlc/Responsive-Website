@@ -142,42 +142,40 @@ nav li.tablet,nav li.phone {
 </style>
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
-  </head>
+
+</head>
 
 <body>
 
 <div id="container">
-
 <div id="logo">
-<img src="/assets/images/logos/dqu_wordmark.png" width="500" 
-height="67" alt="Deque University"></div>
-  <nav>
+<img src="#" width="500" 
+height="150" alt="Angela T. Labianca-Campbell"></div>
+
+<nav>
   <ul>
-  <!-- navigation links for only the desktop view 
-  (hidden in tablet and phone view) -->
-  <li class="desktop"><a href="#">Learn about Accessibility</a></li>
-  <li class="desktop"><a href="#"> Testing Tools</a></li>
-  <li class="desktop"><a href="#">Discussion Forum &amp; Mailing List</a></li>
-  <li class="desktop"><a href="#">Blog</a></li>
-  <li class="desktop"><a href="#">User Guides</a></li>
+  <!-- navigation links for only the desktop view (hidden in tablet and phone view) -->
+  <li class="desktop"><a href="#">About Me</a></li>
+  <li class="desktop"><a href="#">Resume</a></li>
+  <li class="desktop"><a href="#">Writing Samples</a></li>
+  <li class="desktop"><a href="#">Projects</a></li>
+  <li class="desktop"><a href="#">Contact</a></li>
 
-  <!-- navigation links for only the tablet view 
-  (hidden in desktop and phone view) -->
-  <li class="tablet"><a href="#">Learn </a></li>
-  <li class="tablet"><a href="#">Tools</a></li>
-  <li class="tablet"><a href="#">Discussion</a></li>
-  <li class="tablet"><a href="#">Blog</a></li>
-  <li class="tablet"><a href="#">Guides</a></li>
+  <!-- navigation links for only the tablet view (hidden in desktop and phone view) -->
+  <li class="tablet"><a href="#">About </a></li>
+  <li class="tablet"><a href="#">Resume</a></li>
+  <li class="tablet"><a href="#">Writing</a></li>
+  <li class="tablet"><a href="#">Projects</a></li>
+  <li class="tablet"><a href="#">Contact</a></li>
 
-  <!-- navigation links for only the phone view 
-  (hidden in desktop and tablet view)-->
-  <li class="phone"><a href="#">Learn about Accessibility</a></li>
-  <li class="phone"><a href="#"> Testing Tools</a></li>
-  <li class="phone"><a href="#">Discussion Forum &amp; Mailing List</a></li>
-  <li class="phone"><a href="#">Blog</a></li>
-  <li class="phone"><a href="#">User Guides</a></li>
+  <!-- navigation links for only the phone view (hidden in desktop and tablet view)-->
+  <li class="phone"><a href="#">About ME</a></li>
+  <li class="phone"><a href="#">Resume</a></li>
+  <li class="phone"><a href="#">Writing Samples</a></li>
+  <li class="phone"><a href="#">Projects</a></li>
+  <li class="phone"><a href="#">Contact</a></li>
   </ul>
-  </nav>
+</nav>
 
 <main>
   <h1>This is an Example of a Responsive Design</h1>

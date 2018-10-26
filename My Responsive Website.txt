@@ -11,14 +11,15 @@
 body {
       margin:0;
       padding:0;
-      background-color: #80ccff;
+      background-color: #ffffff;
       font-family: "Lucida Sans Unicode", 
       "Lucida Grande", sans-serif;
   }
 
 nav {
-      background-color: #5494C4;
-      text-align:center;
+      background-color: #003cff ;
+      opacity: 0.15;
+      text-align:center;	
   }
 
 main {
@@ -52,7 +53,7 @@ nav li {
   }
 
 nav a {
-      color:66ff66;
+      color:d3af72;
       text-decoration:none;
       display:inline-block; 
       margin:0;

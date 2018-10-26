@@ -1,0 +1,7 @@
+colors are
+
+text  d3af72 @100% opacity
+
+yello is ffc800 at 15% opacity
+
+blue is  003cff at 15% opacity

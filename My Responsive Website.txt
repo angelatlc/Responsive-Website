@@ -157,23 +157,23 @@ nav li.tablet,nav li.phone {
   <ul>
   <!-- navigation links for only the desktop view (hidden in tablet and phone view) -->
   <li class="desktop"><a href="#">About Me</a></li>
-  <li class="desktop"><a href="#">Resume</a></li>
-  <li class="desktop"><a href="#">Writing Samples</a></li>
+  <li class="desktop"><a href="#">Knowledge Base</a></li>
   <li class="desktop"><a href="#">Projects</a></li>
-  <li class="desktop"><a href="#">Contact</a></li>
+  <li class="desktop"><a href="#">Online Resume</a></li>
+  <li class="desktop"><a href="#">Contact Info</a></li>
 
   <!-- navigation links for only the tablet view (hidden in desktop and phone view) -->
   <li class="tablet"><a href="#">About </a></li>
-  <li class="tablet"><a href="#">Resume</a></li>
-  <li class="tablet"><a href="#">Writing</a></li>
+  <li class="tablet"><a href="#">Knowledge Base</a></li>
   <li class="tablet"><a href="#">Projects</a></li>
+  <li class="tablet"><a href="#">Resume</a></li>
   <li class="tablet"><a href="#">Contact</a></li>
 
   <!-- navigation links for only the phone view (hidden in desktop and tablet view)-->
-  <li class="phone"><a href="#">About ME</a></li>
-  <li class="phone"><a href="#">Resume</a></li>
-  <li class="phone"><a href="#">Writing Samples</a></li>
+  <li class="phone"><a href="#">About Me</a></li>
+  <li class="phone"><a href="#">Knowledge Base</a></li>
   <li class="phone"><a href="#">Projects</a></li>
+  <li class="phone"><a href="#">Resume</a></li>
   <li class="phone"><a href="#">Contact</a></li>
   </ul>
 </nav>
@@ -267,7 +267,7 @@ blah blah blah blah blah blah blah blah blah blah blah blah
 
 </main>
 <div id="topics-list">
-    <h2>IT Knowledge Base</h2>
+    <h2>Knowledge Base</h2>
   	<ul>
 
 	<li>Operating Systems

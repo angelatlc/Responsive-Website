@@ -1,0 +1,25 @@
+Virtualization can mean somewhat different things depending on the technology going virtual.  Based on our textbook, we learned that “the operating system takes a physical resource (such as the processor, or memory, or a disk) and transforms it into a more general, powerful, and easy-to-use virtual form of itself [...called...] a virtual machine (VM).” (Arpaci-Dusseau & Arpaci-Dusseau, 2012, p.2).  In this context, the operating system is allowing multiple programs (as well as the OS itself) to share the device’s resources. In this way, a user can have several programs and apps running at the same time. However, this is not the only way to use virtualization and it is certainly not the most pertinent.
+
+The article I chose for discussion from the assigned websites states that virtualization means “technology that is used to split physical machine hardware resource for running multiple operating systems in one machine” (Rajalakshmi, Srinandhini, & Uma, 2015).  For example, a computer running Windows OS can also host a virtual machine, or an emulation of a computer system, running Linux OS or any other OS for that matter. In this way, multiple operating systems can be on a single device and share its hardware resources.  This may not seem like a drastic difference from what our textbook describes, considering emulation software is just another program. However, being able to run virtual machines with different operating systems and system configurations on the same hardware has many advantages.
+
+Here are some of the uses of virtual machines (Rajalakshmi, Srinandhini, & Uma, 2015):
+
+
+One use for virtual machines is to test software and debug it before deploying it at the enterprise level.  Using a single device, with numerous virtual machines each running different operating systems and configurations, a developer can test and debug a program on multiple platforms.  This is an efficient and cost effective method to test software before deployment.
+
+
+Another use for virtual machines is as a backup of the virtual machine’s state at any particular time.  This enables a “snapshot” of an exact point in time to be stored and then restored later. Not only is this useful as a backup in case a machine gets corrupted, but it can be used as a method for version control as updates and features are added to the machine.
+
+
+Multiple virtual machines simulating individual client desktops, each with different data, applications, and operating system can be run on a single physical host server.  Centralizing computing in this way allows IT departments to reduce hardware costs and set up new desktops quickly since users would access their virtual desktops from inexpensive (or shared) client machines.  
+
+
+All this said, virtualization is not a panacea:  there can be disadvantages. When something does go wrong with a virtualized system, expertise in troubleshooting virtualization problems will be necessary.  Moreover, when a physical failure happens, then all machines (both physical and virtual) need to be restored, which can be devastating.
+
+
+
+References
+
+Arpaci-Dusseau, R. & Arpaci-Dusseau, A. (2012). Operating Systems: Three Easy Pieces. Madison, WI: University of Wisconsin-Madison. Retrieved from http://pages.cs.wisc.edu/~remzi/OSTEP//
+
+Rajalakshmi, A., Srinandhini, S., Uma , R. (October, 2015). A Technical Review on Virtualization Technology. International Journal of Innovative Research in Computer and Communication Engineering, 3(10).  Retrieved from http://www.ijircce.com/upload/2015/october/69_A%20Technical.pdf
